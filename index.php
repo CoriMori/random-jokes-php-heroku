@@ -31,7 +31,10 @@
 		["q"=>"Im reading a book on the history of glue.","a"=>"I just cant seem to put it down."],
 		["q"=>"Dad, can you put the cat out?","a"=>"I didnt know it was on fire."],
 		["q"=>"What did the ocean say to the sailboat?","a"=>"Nothing, it just waved."],
-		["q"=>"What do you get when you cross a snowman with a vampire?","a"=>"Frostbite"]
+		["q"=>"What do you get when you cross a snowman with a vampire?","a"=>"Frostbite"],
+		["q"=>"Why can't a bike stand on it's own?","a"=>"Because it's two-tired."],	//New Jokes
+		["q"=>"What did the grape say when it was stepped on?","a"=>"Nothing, it just let out a little wine."],
+		["q"=>"Why can't you play poker on the African Savanna?","a"=>"Because there are too many cheetahs."]
 	];
 	
 	
